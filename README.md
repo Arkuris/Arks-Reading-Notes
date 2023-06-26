@@ -8,3 +8,5 @@
 *item 2
 
 ##Here is some text to go with my list.
+
+*[class 01 notes] (./class-01)
