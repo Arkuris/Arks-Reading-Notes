@@ -1,12 +1,4 @@
-# Arks-Reading-Notes
-
-## Arks-Reading-Notes repository 
-
-# My Awesome List
-
-* item 1
-* item 2
-
-## Here is some text to go with my list.
-
+# Hello welcome to my website.
+Hi, below are a few links to some stuff I made using MarkDown on GitHub
+## Davids Links 
 [Lab 1](./class-01)
