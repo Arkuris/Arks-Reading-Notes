@@ -1,11 +1,8 @@
 #reading-notes
-my reading notes Repository
 
-## My awesome list
+##Class 01
 
-*item 1
-*item 2
+What I learned in class 01.
 
-Here is some text to go with my list.
-
-## Table of Contents 
+1. Octothorp has 8 points
+2. We will be using two types of learning, path and sandbox learning.
