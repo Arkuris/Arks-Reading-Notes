@@ -1,12 +1,12 @@
 # Arks-Reading-Notes
 
-##Arks-Reading-Notes repository 
+## Arks-Reading-Notes repository 
 
-#My Awesome List
+# My Awesome List
 
-*item 1
-*item 2
+* item 1
+* item 2
 
-##Here is some text to go with my list.
+## Here is some text to go with my list.
 
-*[class 01 notes] (./class-01)
+[Lab 1](./class-01)
