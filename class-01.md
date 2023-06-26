@@ -1,6 +1,6 @@
-#reading-notes
+# reading-notes
 
-##Class 01
+## Class 01
 
 What I learned in class 01.
 
