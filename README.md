@@ -1,5 +1,14 @@
-# Hello welcome to my website.
-Hi, below are a few links to some stuff I made using MarkDown on GitHub
-## Davids Links 
-* [Class-01 What I learned](./class-01)
-* [Lab 1 Growth Mindset](https://arkuris.github.io/Arks-Reading-Notes/lab-1-growth-mindset)
+# Hello Fellow developers, Welcome.
+
+## Here is the link to my notes and stuff so far!
+
+* [Class 01]()
+* [Class 02]()
+* [Class 03]()
+* [Class 04]()
+* [Class 05]()
+* [Class 06]()
+* [Class 07]()
+* [Class 08]()
+* [Class 09]()
+* [Class 10]()
