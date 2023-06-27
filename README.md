@@ -1,4 +1,7 @@
-# Hello Fellow developers, Welcome.
+# Hello Fellow developers, and Welcome.
+
+I'm David, and this websight is created to store and keep track of all of my personal notes so I can access them when needed, and its published so if you find anything useful here please use it! :D
+
 
 ## Here is the link to my notes and stuff so far!
 
