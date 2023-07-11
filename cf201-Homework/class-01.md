@@ -1,21 +1,3 @@
-# 201 Reading Notes Class 1
-
-## Course Overview for 201/ A day in the life of a 201 student.
-  * Canvas: All work and submissions will be here and where you will get your grade. 
-  * The Day is set up with 9am-12pm Lecture, Lunch, 1-2pm-6pm Lab. At 6pm turn in something for code review, who cares what it looks like.
-  * Goal: Everyday learn something new. 
-  * After doing a lecture in the morning, it should cover the topic's and give the info needed to complete that days lab.
-## Terminal Commands 
-  * Create Directories; cd
-  * list current files/directorys; ls
-  * Open current file into VScode; code .
-  * Creating Files; touch < filename >
-  * How to move a file; mv soure/path ../destination/path
-  * To copy a file on git; git clone ( URL ) <---- to a git repository. 
-  * How to create a new directory; mkdir ( file name )
-  
-## Lab 01!
-
 # Code Fellows 201 Read: Class 01
 ## Reading: 
 1. Compose a short poem describing how HTTP sends data between computers.
@@ -63,5 +45,3 @@
     * Prompts/alerts, usable buttons?
   2. How can you add JavaScript to an HTML document?
     * You create a style tag 
-
-   
